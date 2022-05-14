@@ -11,7 +11,7 @@
 ## How to use ?
 
 ```python
-# You have to put your pastebin raw link in the line 8, like this :
+# You have to put your pastebin raw link in the line 6, like this :
 url = "https://pastebin.com/raw/xxxxxx"
 ```
 
