@@ -17,7 +17,6 @@ def input_data():
         dico_data = {request_json_username : request_json_password}
         liste.append(dico_data)
 
-    print(liste)
     username = str(input("Please enter your username : "))
     password = str(input("Please enter your password : "))
     data_user = {username : password}
